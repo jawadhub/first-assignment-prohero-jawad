@@ -129,7 +129,7 @@ h1{
 /* Start                              Section Five */
 .section-five{
   text-align: center;
-  height: 220px;
+  height: 200px;
   background-color: papayawhip;
 }
 
@@ -142,11 +142,11 @@ h1{
 .section-five h4{
   color: darkslategray;
   font-size: 18px;
-  
+  letter-spacing: 5px;
 }
 .section-five h3{
   color: darkgoldenrod;
   font-size: 40px;
   margin: 10px auto;
 }
-/* End                         Section Five */
+/* End                                Section Five */
