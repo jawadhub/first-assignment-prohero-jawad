@@ -19,9 +19,6 @@ h1{
   margin: 0;
 }
 /* Start ------------  section-one */
-/* .sec-one-tm{
-  margin-top: 100px;
-} */
 
 .fifty-per{
   width: 40%;
@@ -50,7 +47,7 @@ h1{
 .hire-me{
   text-decoration: none;
   background: orangered;
-  padding: 20px 45px;
+  padding: 15px 35px;
   color: #fff;
   border-radius: 5px;
   letter-spacing: 2px;
@@ -96,7 +93,7 @@ h1{
   background-image: url(./shapes/Group_33094_1.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 70% 60%;
+  background-size: 70% 65%;
   position: relative;
   height: 250px;
 }
@@ -106,7 +103,7 @@ h1{
   padding: 15px 35px;
   text-align: left;
   position: absolute;
-  top: 27%;
+  top: 22%;
   left: 18%;
   color: #fff;
   
@@ -129,7 +126,7 @@ h1{
   display: inline-block;
 }
 
-
+/* Start                              Section Five */
 .section-five{
   text-align: center;
   height: 220px;
@@ -150,7 +147,6 @@ h1{
 .section-five h3{
   color: darkgoldenrod;
   font-size: 40px;
-  margin: 20px auto;
-  
-
+  margin: 10px auto;
 }
+/* End                         Section Five */
