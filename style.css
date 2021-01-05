@@ -1,0 +1,156 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lora', serif;
+}
+
+p{
+  color: darkslategray;
+}
+
+section{
+  height: 500px;
+  padding: 25px 50px;
+  
+}
+
+h1{
+  font-size: 50px;
+  margin: 0;
+}
+/* Start ------------  section-one */
+/* .sec-one-tm{
+  margin-top: 100px;
+} */
+
+.fifty-per{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+.hello{
+  color: darkgoldenrod;
+  
+}
+
+.jawad{
+  color: crimson;
+}
+
+.section-one-img{
+  width: 80%;
+ 
+}
+
+.section-one p{
+  margin-bottom: 70px;
+}
+
+.hire-me{
+  text-decoration: none;
+  background: orangered;
+  padding: 20px 45px;
+  color: #fff;
+  border-radius: 5px;
+  letter-spacing: 2px;
+  
+}
+/* End ------------  section-one */
+
+
+.about{
+  font-size: 35px;
+  color: darkgoldenrod;
+}
+
+/* Start               Section Three */
+
+.section-three{
+  background-color: rgb(250, 242, 242);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.thirty-per{
+  width: 28%;
+  float: left;
+  margin-left: 2%;
+  padding: 1%;
+  box-shadow: 10px 10px 20px gray;
+  border-radius: 10px;
+}
+
+.sec-three-project{
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 80px 0;
+}
+
+/* End                 Section Three */
+
+
+/* Start -------------Section Four */
+.section-four{
+  background-image: url(./shapes/Group_33094_1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 70% 60%;
+  position: relative;
+  height: 250px;
+}
+
+.sec-four-float h2{
+  font-size: 45px;
+  padding: 15px 35px;
+  text-align: left;
+  position: absolute;
+  top: 27%;
+  left: 18%;
+  color: #fff;
+  
+}
+.lets-chat{
+  text-decoration: none;
+  background: orangered;
+  padding: 15px 35px;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 20px;
+  position: absolute;
+  top: 42%;
+  left: 70%;
+  
+}
+
+
+.sec-four-float{
+  display: inline-block;
+}
+
+
+.section-five{
+  text-align: center;
+  height: 220px;
+  background-color: papayawhip;
+}
+
+.section-five img{
+  margin-right: 15px;
+  height: 35px;
+  width: 35px;
+  
+}
+.section-five h4{
+  color: darkslategray;
+  font-size: 18px;
+  
+}
+.section-five h3{
+  color: darkgoldenrod;
+  font-size: 40px;
+  margin: 20px auto;
+  
+
+}
