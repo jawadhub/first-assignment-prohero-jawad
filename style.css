@@ -18,6 +18,33 @@ h1{
   font-size: 50px;
   margin: 0;
 }
+
+/* Start              Navbar decoration */
+
+#nav-barNav{
+  height: 50px;
+  width: 100%;
+  background-color: rgb(248, 247, 245);
+}
+
+#nav-barNav ul{
+  float: right;
+  margin-right: 100px;
+
+}
+#nav-barNav ul li{
+  display: inline-block;
+  list-style-type: none;
+  
+}
+#nav-barNav ul li a{
+  text-decoration: none;
+  margin-left: 25px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+/* End              Navbar decoration */
 /* Start ------------  section-one */
 
 .fifty-per{
@@ -67,6 +94,7 @@ h1{
   background-color: rgb(250, 242, 242);
   margin-top: 50px;
   margin-bottom: 50px;
+  height: 600px;
 }
 
 .thirty-per{
@@ -108,6 +136,7 @@ h1{
   color: #fff;
   
 }
+
 .lets-chat{
   text-decoration: none;
   background: orangered;
@@ -130,7 +159,7 @@ h1{
 .section-five{
   text-align: center;
   height: 200px;
-  background-color: papayawhip;
+  background-color: rgb(248, 247, 245);
 }
 
 .section-five img{
@@ -150,3 +179,63 @@ h1{
   margin: 10px auto;
 }
 /* End                                Section Five */
+
+.skills{
+  height: 450px;
+  padding-top: 60px;
+}
+
+.skills .column{
+  width: 45%;
+  float: left;
+  padding: 15px;
+}
+
+.skills .right .bars{
+  margin-bottom: 15px;
+}
+.skills .right .info{
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+}
+.skills .right .span{
+font-weight: 600;
+font-size: 16px;
+}
+
+.skills .right .line{
+  height: 5px;
+  width: 100%;
+  background: crimson;
+}
+.skills .right .html{
+  width: 90%;
+}
+.skills .right .css{
+  width: 70%;
+}
+.skills .right .bs{
+  width: 60%;
+}
+.skills .right .js{
+  width: 40%;
+}
+.skills .right .mysql{
+  width: 30%;
+}
+
+.skills-title{
+  text-align: center;
+  color: crimson;
+}
+
+.skills-subtitle{
+  text-align: center;
+  color: darkgoldenrod;
+  margin-top: 0;
+}
+
+  .skills-text{
+    text-align: justify;
+  }
