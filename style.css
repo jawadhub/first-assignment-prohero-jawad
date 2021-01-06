@@ -1,43 +1,40 @@
-body{
+body {
   margin: 0;
   padding: 0;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
 }
 
-p{
+p {
   color: darkslategray;
 }
 
-section{
+section {
   height: 500px;
   padding: 25px 50px;
-  
 }
 
-h1{
+h1 {
   font-size: 50px;
   margin: 0;
 }
 
 /* Start              Navbar decoration */
 
-#nav-barNav{
+#nav-barNav {
   height: 50px;
   width: 100%;
   background-color: rgb(248, 247, 245);
 }
 
-#nav-barNav ul{
+#nav-barNav ul {
   float: right;
   margin-right: 100px;
-
 }
-#nav-barNav ul li{
+#nav-barNav ul li {
   display: inline-block;
   list-style-type: none;
-  
 }
-#nav-barNav ul li a{
+#nav-barNav ul li a {
   text-decoration: none;
   margin-left: 25px;
   font-weight: 700;
@@ -48,57 +45,53 @@ h1{
 /* End              Navbar decoration */
 /* Start ------------  section-one */
 
-.fifty-per{
+.fifty-per {
   width: 40%;
   float: left;
   margin-left: 5%;
   padding: 2%;
 }
-.hello{
+.hello {
   color: darkgoldenrod;
-  
 }
 
-.jawad{
+.jawad {
   color: crimson;
 }
 
-.section-one-img{
+.section-one-img {
   width: 80%;
- 
 }
 
-.section-one p{
+.section-one p {
   margin-bottom: 70px;
 }
 
-.hire-me{
+.hire-me {
   text-decoration: none;
-  background: orangered;
+  background: crimson;
   padding: 15px 35px;
   color: #fff;
   border-radius: 5px;
   letter-spacing: 2px;
-  
 }
 /* End ------------  section-one */
 
-
-.about{
+.about {
   font-size: 35px;
   color: darkgoldenrod;
 }
 
 /* Start               Section Three */
 
-.section-three{
+.section-three {
   background-color: rgb(250, 242, 242);
   margin-top: 50px;
   margin-bottom: 50px;
   height: 600px;
 }
 
-.thirty-per{
+.thirty-per {
   width: 28%;
   float: left;
   margin-left: 2%;
@@ -107,7 +100,7 @@ h1{
   border-radius: 10px;
 }
 
-.sec-three-project{
+.sec-three-project {
   font-size: 35px;
   text-align: center;
   text-transform: uppercase;
@@ -116,9 +109,8 @@ h1{
 
 /* End                 Section Three */
 
-
 /* Start -------------Section Four */
-.section-four{
+.section-four {
   background-image: url(./shapes/Group_33094_1.png);
   background-repeat: no-repeat;
   background-position: center;
@@ -127,7 +119,7 @@ h1{
   height: 250px;
 }
 
-.sec-four-float h2{
+.sec-four-float h2 {
   font-size: 45px;
   padding: 15px 35px;
   text-align: left;
@@ -135,10 +127,9 @@ h1{
   top: 22%;
   left: 18%;
   color: #fff;
-  
 }
 
-.lets-chat{
+.lets-chat {
   text-decoration: none;
   background: orangered;
   padding: 15px 35px;
@@ -148,95 +139,92 @@ h1{
   position: absolute;
   top: 42%;
   left: 70%;
-  
 }
 
-
-.sec-four-float{
+.sec-four-float {
   display: inline-block;
 }
 
 /* Start                              Section Five */
-.section-five{
+.section-five {
   text-align: center;
   height: 200px;
   background-color: rgb(248, 247, 245);
 }
 
-.section-five img{
+.section-five img {
   margin-right: 15px;
   height: 35px;
   width: 35px;
-  
 }
-.section-five h4{
+.section-five h4 {
   color: darkslategray;
   font-size: 18px;
   letter-spacing: 5px;
 }
-.section-five h3{
+.section-five h3 {
   color: darkgoldenrod;
   font-size: 40px;
   margin: 10px auto;
 }
 /* End                                Section Five */
 
-.skills{
+.skills {
   height: 450px;
   padding-top: 60px;
 }
 
-.skills .column{
+.skills .column {
   width: 45%;
   float: left;
   padding: 15px;
 }
 
-.skills .right .bars{
+.skills .right .bars {
   margin-bottom: 15px;
 }
-.skills .right .info{
+.skills .right .info {
   display: flex;
   /* align-items: center; */
   justify-content: space-between;
 }
-.skills .right .span{
-font-weight: 600;
-font-size: 16px;
+.skills .right .span {
+  font-weight: 600;
+  font-size: 16px;
 }
 
-.skills .right .line{
+.skills .right .line {
   height: 5px;
   width: 100%;
   background: crimson;
 }
-.skills .right .html{
-  width: 90%;
+.skills .right .html {
+  width: 80%;
 }
-.skills .right .css{
+.skills .right .css {
   width: 70%;
 }
-.skills .right .bs{
+.skills .right .bs {
   width: 60%;
 }
-.skills .right .js{
+.skills .right .js {
   width: 40%;
 }
-.skills .right .mysql{
+.skills .right .mysql {
   width: 30%;
 }
 
-.skills-title{
+.skills-title {
   text-align: center;
   color: crimson;
 }
 
-.skills-subtitle{
+.skills-subtitle {
   text-align: center;
   color: darkgoldenrod;
   margin-top: 0;
 }
 
-  .skills-text{
-    text-align: justify;
-  }
+.skills-text {
+  text-align: justify;
+}
